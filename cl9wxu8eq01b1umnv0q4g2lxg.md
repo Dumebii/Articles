@@ -75,11 +75,11 @@ function playSound(key) {
 }
 ```
 
-*We used a `switch` statement because there are a lot of conditions to be met. In our [HTML file](https://github.com/Dumebii/Drumkit/blob/main/index.html), we see that each of our buttons has a value that corresponds with each alphabet in our different cases. The alphabets in the cases all represent different keys on our computer/laptop keyboard. 
+*We used a `switch` statement because there are a lot of conditions to be met. In our [HTML file](https://github.com/Dumebii/Drumkit/blob/main/index.html), we see that each of our buttons has a value that corresponds with each alphabet in our different cases. The alphabets in the cases all represent different keys on our computer/laptop keyboard.*
 
-**You might not understand this now till we move a bit further down our building, but stay with me.**
+* **You might not understand this now till we move a bit further down our building, but stay with me.** *
 
- We are simply asking the computer to check if the key pressed on our laptop/computer keyboard corresponds to the alphabet-value of our HMTL buttons.*
+*We are simply asking the computer to check if the key pressed on our laptop/computer keyboard corresponds to the alphabet-value of our HMTL buttons.*
 
 *In our different `cases`, we are asking the computer that upon verification of matching alphabets, it should assign a sound to the specific button that is triggered. We are able to achieve this with the javascript `new Audio` constructor function.*
 
