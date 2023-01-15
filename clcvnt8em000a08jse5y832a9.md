@@ -2,7 +2,7 @@
 
 Hello and welcome!!
 
-Today, I'd be sharing my knowledge on three of my favorite React hooks I have learned. I will try my best to explain this as simply as I can, the way that I understand it. Hopefully, this can help fuel your understanding.
+Today, I'd be sharing my knowledge on three of my favorite React hooks that I have learned. I will try my best to explain this as simply as I can, the way that I understand it. Hopefully, this can help fuel your understanding.
 
 ***Please note that this article is not holistic nor does it aim at teaching you everything that you need to know.***
 
