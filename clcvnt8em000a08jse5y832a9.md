@@ -58,9 +58,9 @@ return (
 
 *This means that the* `console.log` given as the first argument in the `useEffect` syntax would not run unless only the condition "not boolean" is satisfied. Boolean is a state variable whose updating is dependent on the `onClick` event in the `h1` being triggered. What this simply means is that the `console.log` would not take effect till the `h1` is clicked.
 
-*Note though that sometimes, the* `dependencies array` *is empty. What this simply means is that we want the* `console.log` *as in the example above, to run only once, and once the page is rendered.*
+*Note though that sometimes, the* `dependencies array` *is empty. What this means is that we want the* `console.log`, *as in the example above, to run only once, and immediately the page is rendered.*
 
-* The `useEffect` hook can, and should be used for other "more important" things in a React app though. Primarily managing fallout or effects from using "external bodies" on a React app, like making an API call for example, amongst other things that React typically isn't built to handle.
+* The `useEffect` hook can, and should be used for other "more important" things in a React app though. Primarily managing fallout or effects from using *external bodies* on a React app, like making an API call, amongst other things that React typically isn't built to handle.
     
 
 **The** `useEffect` **hook is a lot deeper than this and gets more complicated the further down you go. This is just an overview to give a general understanding of it.**
@@ -83,9 +83,9 @@ function App() {
 
 *What the above code snippet helps us see is that we can access the* `textContent` *of our* `h1` *tag, and change it to something else, just as we would have easily done with a* `document.querySelector`*. This of course happens when we trigger the* `onClick` *event on the h1.*
 
-In some instances, as we did above, we can afford to use the `useRef` hook in place of a `useState` hook when we want to make sure that the website does not rerender unnecessarily. That is, we could have easily achieved our goal using the `useState` hook, but in instances like this where we do not require rerenders, it is safer to use the `useRef` hook.
+In some instances, as we did above, we can afford to use the `useRef` hook in place of a `useState` hook when we want to make sure that the website does not re-render unnecessarily. That is, we could have easily achieved our goal using the `useState` hook, but in instances like this where we do not require re-renders, it is better to use the `useRef` hook.
 
-**The useRef hook does not cause site rerender.**
+**The useRef hook does not cause site re-render.**
 
 **The** `useRef` **hook is a lot deeper than this and gets more complicated the further down you go. This is just an overview to give a general understanding of it.**
 
