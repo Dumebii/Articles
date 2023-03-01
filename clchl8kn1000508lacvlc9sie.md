@@ -28,7 +28,7 @@ I understand why companies do this though. It is because these advocates or rela
 
 *(As an aside: some docs are so badly written, it is painful. This is because some of these advocates are, again, just developers without the knowledge of how to sell their products, or even explain what this product does).*
 
-I have been gone on enough through this article, and it is almost seeming like I am discrediting the work of these people that I so greatly admire.
+I have talked enough through this article, and it is seeming like I am discrediting the work of these people that I so greatly admire.
 
 Far from it. I love and respect every single DevRel or Dev Advocate I have come across, and believe that they do amazing and awesome work.
 
