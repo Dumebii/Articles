@@ -14,6 +14,8 @@ tags: tutorial, web-development, backend, html5, frontend-development
 
 Hello, and welcome to my series !!! 😃😃
 
+\[Greetings\]([https://tenor.com/view/greetings-gif-24393996](https://tenor.com/view/greetings-gif-24393996))
+
 In this series, and over the next 12 weeks, I will teach you how to become a front-end web developer. The essence of this tutorial is to give a sort of basis for your learning path or journey. These tutorials do not in any way claim to be exhaustive or complete.
 
 # Introduction
@@ -40,9 +42,17 @@ Frontend development involves creating the parts of a website or application tha
 
 HTML (Hypertext Markup Language) is the standard language used to create web pages. It provides the structure and content of a web page and is used to define the different elements of a page, such as headings, paragraphs, images, and links.
 
+This is what a website built with only HTML looks like
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683275365437/4a78c744-b68f-465f-b1d4-b654491c860c.jpeg align="center")
+
 ### CSS
 
 CSS (Cascading Style Sheets) controls the presentation of a web page. It is used to style the elements defined in HTML and can be used to create layouts, color schemes, and visual effects.
+
+CSS affects the general layout of a website, beautifying it and putting things in a more visually appealing appearance.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683276565921/2e08d8d5-b30d-4cd8-8921-0b5fb32ede75.jpeg align="center")
 
 ### JavaScript
 
