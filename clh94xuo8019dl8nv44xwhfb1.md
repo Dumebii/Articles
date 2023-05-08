@@ -14,8 +14,6 @@ tags: tutorial, web-development, backend, html5, frontend-development
 
 Hello, and welcome to my series !!! 😃😃
 
-\[Greetings\]([https://tenor.com/view/greetings-gif-24393996](https://tenor.com/view/greetings-gif-24393996))
-
 In this series, and over the next 12 weeks, I will teach you how to become a front-end web developer. The essence of this tutorial is to give a sort of basis for your learning path or journey. These tutorials do not in any way claim to be exhaustive or complete.
 
 # Introduction
@@ -73,6 +71,10 @@ Databases are used to store and organize large amounts of data for web applicati
 ### APIs
 
 APIs (Application Programming Interfaces) are used to allow different systems to communicate with each other. They are often used to integrate different web services, such as social media platforms or payment gateways, into a web application.
+
+Here's a brief summary of the two roles.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683544133848/315ebac6-63ba-4769-aa44-5de08fb725bd.png align="center")
 
 # Conclusion
 
