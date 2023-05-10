@@ -1,7 +1,8 @@
 ---
 title: "Learn Frontend web development in 12 days"
-seoTitle: "Learn web development by learning HTML development in easy steps."
-seoDescription: "Learn the best practices for writing web development in this beginner code with HTML. Semantic HTML, aria tags, HTML elements."
+seoTitle: "Learn web development in 12 days HTML development 
+Beginner web devel"
+seoDescription: "Learn beginner HTML, Learn HTML for beginners, basics of HTML, how to learn web development, beginning web development with HTML."
 datePublished: Wed May 10 2023 13:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: clhhqnjp8001q8inv8qn3ewlb
 slug: learn-frontend-web-development-in-12-days-1
