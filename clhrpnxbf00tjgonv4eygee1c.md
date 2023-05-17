@@ -202,7 +202,7 @@ These elements are what you are likely to come across often or use as you contin
 
 I had so much fun writing this, and I hope you have a good time reading it as well!!
 
-I will see you in our next class, where we take on the *almighty* CSS!! 😏😏
+I will see you in our next class, where we take on the *almighty* CSS!! 😏😏😏
 
 ## References
 
