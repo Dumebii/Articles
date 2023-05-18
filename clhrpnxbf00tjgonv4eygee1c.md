@@ -2,9 +2,9 @@
 title: "Learn Frontend Web development in 12 days!!"
 seoTitle: "Learn core HTML principles// learn frontend development//"
 seoDescription: "Learn core HTML principles// HTML accessibility// HTML attributes// Frontend web development// Web development// important HTML elements// HTML tags//"
-datePublished: Wed May 17 2023 13:00:39 GMT+0000 (Coordinated Universal Time)
+datePublished: Thu May 18 2023 06:55:31 GMT+0000 (Coordinated Universal Time)
 cuid: clhrpnxbf00tjgonv4eygee1c
-slug: learn-frontend-web-development-in-12-days-1
+slug: learn-frontend-web-development-in-12-days-2
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_t-l5FFH8VA/upload/cddafe04669dbd444b177a10bd9c56ca.jpeg
 tags: tutorial, web-development, accessibility, html5, frontend-development
 
