@@ -86,6 +86,10 @@ CSS files end with the extension `.css`. There are three ways of writing CSS, wh
 
 In the HTML boilerplate shared above, we can see this line of code embedded in it. This is how to link a CSS file in HTML, by first opening a `<link>` tag. The link tag has an attribute `rel` meaning relationship. We see that the relationship here is that the CSS file is a `stylesheet`. It has another attribute `href`. `Href` attributes are used to link files/websites in HTML. This wouldn't make much sense right now until we have covered the introduction to the HTML article. Don't bother yourself trying to understand it all. But this gives a very good foundation for when we start learning.
 
+***To enable this linking, the HTML file, and the CSS file have to be in the same hierarchay in the saving system.***
+
+***Read more about file hierarchy*** [***here***](https://www.easytechjunkie.com/what-is-a-hierarchical-file-system.htm)
+
 ## Setting up the Javascript
 
 ```xml
@@ -110,12 +114,16 @@ However, there is another way to place our script tag in an HTML document.
 
 We can see in the above example, that our `script` tag is embedded in our `head` element, this is because two keywords are associated with the `script` tag. The `await` and `async` keywords. We will talk more about this in our javascript class. It will more sense as the classes go by. Javascript files are written with the extension `.js`.
 
+***To enable this linking, the HTML file, and the javascript file have to be in the same hierarchay in the saving system.***
+
+***Read more about file hierarchy*** [***here***](https://www.easytechjunkie.com/what-is-a-hierarchical-file-system.htm)
+
 For our cloud IDEs, however, we do not need to go through this entire process as everything has been automated for easy usage and retrieval. The above explanations are for those who will be following this class with a local IDE.
 
 ## References
 
 [Seven best IDEs for javascript](https://www.tabnine.com/blog/best-ides-for-javascript/)
 
-[What is an IDe](https://aws.amazon.com/what-is/ide/#:~:text=An%20integrated%20development%20environment%20(IDE,easy%2Dto%2Duse%20application.)
+\[What is an IDe\](https://aws.amazon.com/what-is/ide/#:~:text=An%20integrated%20development%20environment%20(IDE,easy%2Dto%2Duse%20application.)
 
 [HTML boilerplate](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
