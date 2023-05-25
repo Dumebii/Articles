@@ -124,6 +124,6 @@ For our cloud IDEs, however, we do not need to go through this entire process as
 
 [Seven best IDEs for javascript](https://www.tabnine.com/blog/best-ides-for-javascript/)
 
-\[What is an IDe\](https://aws.amazon.com/what-is/ide/#:~:text=An%20integrated%20development%20environment%20(IDE,easy%2Dto%2Duse%20application.)
+[What is an Ide?](https://aws.amazon.com/what-is/ide/#:~:text=An%20integrated%20development%20environment%20(IDE,easy%2Dto%2Duse%20application.)
 
 [HTML boilerplate](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
