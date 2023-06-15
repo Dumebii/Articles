@@ -1,7 +1,7 @@
 ---
 title: "Learn Frontend Web development in 12days!!"
 seoTitle: "Learn how to choose an IDE for the best development experience"
-seoDescription: "This article teaches how to set up a development environment. Different IDEs and their uses.  What IDE to choose when you start coding."
+seoDescription: "This article teaches how to set up a development environment. Different IDEs and their uses.  What IDE to choose when you start coding. comments"
 datePublished: Sat May 06 2023 23:10:46 GMT+0000 (Coordinated Universal Time)
 cuid: cli2bqatw00000al2guek9wuw
 slug: learn-frontend-web-development-in-12days-setting-up-development-environment
@@ -43,6 +43,27 @@ Developers use cloud IDEs to write, edit, and compile code directly in the brows
     
 
 For this tutorial, we will be using CodePen for our coding examples and results.
+
+## Comments
+
+Comments are specially marked lines of text in the program that are **not evaluated**. There are usually two syntactic ways to comment. The first is called a *single-line comment* and, as implied, only applies to a single line in the "source code" (the program). The second is called a *Block* comment and refers usually refers to a paragraph of text. A block comment has a start symbol and an end symbol and everything between is ignored by the computer.
+
+```xml
+<p> I am a girl </p>
+<!-- this is a comment syntax in HTML -->
+```
+
+```css
+body {
+background-color: green;
+}
+/* This is a comment syntax in CSS */
+```
+
+```javascript
+var name = "Dumebi";
+// This is a comment syntax in javavscript. 
+```
 
 ## Setting up HTML
 
@@ -124,6 +145,8 @@ For our cloud IDEs, however, we do not need to go through this entire process as
 
 [Seven best IDEs for javascript](https://www.tabnine.com/blog/best-ides-for-javascript/)
 
-[What is an Ide?](https://aws.amazon.com/what-is/ide/#:~:text=An%20integrated%20development%20environment%20(IDE,easy%2Dto%2Duse%20application.)
+[What is an IDE](https://aws.amazon.com/what-is/ide/#:~:text=An%20integrated%20development%20environment%20(IDE,easy%2Dto%2Duse%20application)
 
 [HTML boilerplate](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
+
+[Comments](https://users.cs.utah.edu/~germain/PPS/Topics/commenting.html)
