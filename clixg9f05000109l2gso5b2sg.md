@@ -1,5 +1,5 @@
 ---
-title: "Learn Front-end Web Development in 12 days!!!"
+title: "Introduction to Javascript"
 seoTitle: "Javascript fundamentals// beginner javascript// javascript variables"
 seoDescription: "Learn Javascript Javascript fundamentals Loops in javascript  conditional statements in javascript  scope in javascript   conditionals naming conventions"
 datePublished: Thu Jun 15 2023 18:03:45 GMT+0000 (Coordinated Universal Time)
@@ -50,15 +50,15 @@ Data types define the various forms of data that we will be working with and sto
 
 Let's go over each type of data and what it can be used for in more detail.
 
-* **Strings** are collections of alphanumeric and symbol characters. This is how we'll save letters and words such as addresses.
+* **Strings** are collections of alphanumeric and symbol characters. This is how we'll save letters and words, such as addresses.
     
 * **Numbers** are exactly how they sound. They are numbers, including integers and decimals. Numbers are frequently used by computers to execute mathematical operations, but they can also simply be a number, such as the number of ice cream flavors available at a given establishment.
     
-* **Booleans** can only have two possible values. Both true and untrue. They represent any data that has only two states, such as a light switch. Either on or off.
+* **Booleans** can only have two possible values. Both true and false. They represent any data that has only two states, such as a light switch. Either on or off.
     
 * **The undefined data** type indicates that the variable was created but never assigned a value. It is nothing because no one has bothered to tell it what it should be worth.
     
-* **Null** is similar to undefined in that it must be explicitly set. It also implies empty or nothing, but it's because a developer commanded it to be that way.
+* **Null** is similar to undefined in that it must be explicitly set. It also implies emptyness or nothingness, but it's because a developer commanded it to be that way.
     
 
 ## Naming conventions in javascript
@@ -67,12 +67,12 @@ When working in an organization, as a team, or individually, certain principles 
 
 * Variable names should have meaning, representing what data they are holding or where they are to be used.
     
-* Variable names in javascript are conventionally written using the camelCase method. In the case of a compound word name, the first letter of the second word should be capitalized, while the others are in small letters.
+* Variable names in JavaScript are conventionally written using the camelCase method. In the case of a compound word name, the first letter of the second word should be capitalized, while the others are in small letters.
     
-* End every piece of code or code block with a semicolon `;` . Unlike in other languages with strict syntax rules, when writing javascript code and semicolons are not added, it doesn't break the flow of the code. However, it is important to add these semicolons for readability.
+* End every piece of code or code block with a semicolon `;` . Unlike in other languages with strict syntax rules, when writing Javascript code, semicolons are not added, it doesn't break the flow of the code. However, it is important to add these semicolons for readability.
     
 
-*You can find more javascript conventions* [*here.*](https://www.w3schools.com/js/js_conventions.asp)
+*You can find more Javascript conventions* [*here.*](https://www.w3schools.com/js/js_conventions.asp)
 
 ## Scope in Javascript
 
@@ -117,10 +117,10 @@ let x = 2;  // Global scope
 A function is a block of reusable code written to perform a specific task. You can think of a function as a sub-program within the main program. A function consists of a set of `statements` but executes as a single unit. A function can be written like:
 
 * ```javascript
-      function sayHello() {
-      	console.log("Hello world"); 
-      };
-      // sayHello()
+        function sayHello() {
+        	console.log("Hello world"); 
+        };
+        // sayHello()
     ```
     
     The code block above is the common syntax for writing a function in javascript. There is present the `function` keyword. The name of the function is followed by parentheses which can include parameters or be left blank, and a set of curly braces that encloses the entire function block. A set of instructions or *arguments* that are supposed to run once the function is called.
@@ -128,10 +128,10 @@ A function is a block of reusable code written to perform a specific task. You c
     Outside the function scope, we see, `sayHello()` this is a function call. Meaning, we are telling our computer to execute the commands within the function block.
     
 * ```javascript
-    function addNumbers(num1, num2) {
-     console.log(num1 +num2) 
-    };
-    addNumbers(1, 2);
+      function addNumbers(num1, num2) {
+       console.log(num1 +num2) 
+      };
+      addNumbers(1, 2);
     ```
     
     The above is an example of a function with parameters. A function can contain many parameters, of various data types.
@@ -139,7 +139,7 @@ A function is a block of reusable code written to perform a specific task. You c
 
 ### Conditional statements
 
-**If/Else statements**: Very often when you write code, you want to perform different actions for different decisions. You can use conditional statements in your code to do this. In JavaScript we have the following conditional statements:
+**If/Else statements**: Very often when you write code, you want to perform different actions for different decisions. You can use conditional statements in your code to do this. In Javascript, we have the following conditional statements:
 
 * Use `if` to specify a block of code to be executed, if a specified condition is true
     
@@ -159,45 +159,45 @@ A function is a block of reusable code written to perform a specific task. You c
     console.log(greeting)
     ```
     
-    In the example above, we are telling the computer to give an output such that (`if`) the value of `hour` is &lt;18, it should log on the console "Good day". However (`else if`), if the value of `hour` \=12, it should log on the console, "It is noon!". Then (`else`), if the value of `hour` is &gt;18, it should log on the console "Good evening".
+    In the example above, we are telling the computer to give an output such that (`if`) the value of `hour` is &lt;18, it should log on the console "Good day". However (`else if`), if the value of `hour` =12, it should log on the console, "It is noon!". Then (`else`), if the value of `hour` is &gt;18, it should log on the console "Good evening".
     
 
 **Switch statements**: Switch statements are an upgrade to the if/else statement. The `switch` statement specifies many alternative blocks of code to be executed.
 
 * ```javascript
-    var testScore = prompt("What is your score?");
-    function grade(testScore) {
-        switch (true) {
-            case testScore <= 39: 
-                alert("You got an F!");
-                break;
-            case testScore <=44:
-                alert("You got a E!");
-                break;
-            case testScore <= 49:
-                alert("You got a D!");
-                break;
-            case testScore <= 59:
-                alert("You got a C!");
-                break;
-            case testScore <= 69:
-                alert("You got a B!");
-                break;
-            case testScore <= 100:
-                alert("You got an A!");
-                break;
-            default:
-                alert("You did not take the test!");
-               break;
-        }
-    }
-    grade(testScore);
+      var testScore = prompt("What is your score?");
+      function grade(testScore) {
+          switch (true) {
+              case testScore <= 39: 
+                  alert("You got an F!");
+                  break;
+              case testScore <=44:
+                  alert("You got a E!");
+                  break;
+              case testScore <= 49:
+                  alert("You got a D!");
+                  break;
+              case testScore <= 59:
+                  alert("You got a C!");
+                  break;
+              case testScore <= 69:
+                  alert("You got a B!");
+                  break;
+              case testScore <= 100:
+                  alert("You got an A!");
+                  break;
+              default:
+                  alert("You did not take the test!");
+                 break;
+          }
+      }
+      grade(testScore);
     ```
     
     Above, we have a function that takes a `switch` statement. We initially created a variable to store a user's input. We take the value of that input and analyze it with our `switch` statement such that if it is less than or equal to (`<=`) the number specified in either of our cases, the command inside the `case` block will be run. Think of each case as an `else if` statement.
     
 
-### Loops in javascript
+### Loops in Javascript
 
 Loops can execute a block of code as long as a specified condition is true.
 
@@ -230,7 +230,7 @@ Loops can execute a block of code as long as a specified condition is true.
     
 * **For loops**: The `for` statement defines a code block that is executed as long as a condition is `true`.
     
-    `for (statement 1; statement 2; statement 3) {     code block to be executed   }`
+    `for (statement 1; statement 2; statement 3) {   code block to be executed }`
     
     * Statement 1: command to be executed before the code block starts. (Optional). This parameter can be omitted, but not the semicolon ";"
         
@@ -247,7 +247,7 @@ Loops can execute a block of code as long as a specified condition is true.
 
 This was a long and interesting read!! We have been introduced to a lot of new concepts and ideas. I don't expect that you will understand this all at once, but going over the class twice or more, and following up with other classes will definitely put you on the right track.
 
-That's all for today's (long) class. 🥳🥳 I'll see you all next week as we continue with our advanced javascript class.
+That's all for today's (long) class. 🥳🥳 I'll see you all next week as we continue with our advanced Javascript class.
 
 ## References
 
