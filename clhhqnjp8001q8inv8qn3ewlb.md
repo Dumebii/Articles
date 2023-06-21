@@ -1,11 +1,11 @@
 ---
-title: "Learn Frontend web development in 12 days"
+title: "HTML for front-end web development"
 seoTitle: "Learn web development in 12 days HTML development 
 Beginner web devel"
 seoDescription: "Learn beginner HTML, Learn HTML for beginners, basics of HTML, how to learn web development, beginning web development with HTML."
 datePublished: Wed May 10 2023 13:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: clhhqnjp8001q8inv8qn3ewlb
-slug: learn-frontend-web-development-in-12-days-1
+slug: html-for-front-end-web-development
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wUbNvDTsOIc/upload/0eeae6a56195b5b4d38281c14191180b.jpeg
 tags: tutorial, web-development, html5, beginners, semantichtml
 
@@ -17,17 +17,17 @@ Hello, and welcome back!! 😁😁
 
 Today, we are going straight into the heart of web development. I consider HTML the heart of web development because there isn't a website without HTML.
 
-In the era before CSS and Javascript became a thing, people would write (and design) entire websites with just HTML. This is to learn and understand web development, especially the front-end, you need to know HTML.
+In the era before CSS and Javascript became a thing, people would write (and design) entire websites with just HTML. To learn and understand web development, especially the front end, you need to know HTML.
 
 HTML stands for Hypertext Markup Language.
 
 ## Definition
 
-***HTML (Hypertext Markup Language) is the standard language used to create web pages. HTML provides the structure and content of a web page and is used to define the different elements of a page, such as headings, paragraphs, images, and links. In this introductory lesson, we will cover the basics of HTML and how to create a simple web page.***
+***HTML (Hypertext Markup Language) is the standard language used to create web pages. HTML provides the structure and content of a web page and defines the different elements of a page, such as headings, paragraphs, images, and links. In this introductory lesson, we will cover the basics of HTML and how to create a simple web page.***
 
 ## Definition of terms
 
-Here's a sample HTML page I built using just HTML. It was meant to be a portfolio website [Portfolio](https://dumebii.github.io/cv/)
+Here's a sample HTML page I built using just HTML. It was meant to be a [portfolio website](https://dumebii.github.io/cv/).
 
 1. ### Elements:
     
@@ -46,12 +46,6 @@ Here's a sample HTML page I built using just HTML. It was meant to be a portfoli
     
     <div>Hi. I am a container!!</div>
     ```
-    
-    <iframe height="248" style="width:100%" src="https://codepen.io/dumebii/embed/VwEQqae?default-tab=html%2Cresult">
-      See the Pen <a href="https://codepen.io/dumebii/pen/VwEQqae">
-      Untitled</a> by Dumebi Okolo (<a href="https://codepen.io/dumebii">@dumebii</a>)
-      on <a href="https://codepen.io">CodePen</a>.
-    </iframe>
     
     * ### Nested HTML Elements
         
