@@ -1,10 +1,10 @@
 ---
-title: "Learn  Frontend Web Development in 12 days"
+title: "What is web development? A guide to web development in 2023"
 seoTitle: "Learn Frontend web development easily"
 seoDescription: "Learn all that you need to know to code the frontend, Learn in-demand skills like HTML, CSS, Javascript, ReactJs, jquery, and build beautiful websites."
 datePublished: Thu May 04 2023 13:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: clh94xuo8019dl8nv44xwhfb1
-slug: learn-frontend-web-development-in-12-days
+slug: what-is-web-development-a-guide-to-web-development-in-2023
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FQ3lFA4Zi58/upload/9ffce3c62d809565f2a3e1266825446d.jpeg
 tags: tutorial, web-development, backend, html5, frontend-development
 
@@ -24,7 +24,7 @@ Thanks to this, there is an increased demand for digital visibility. The best wa
 
 This new wave has led to an increased demand for web developers.
 
-In this article, and the rest following in the series, we will be teaching you how to get started on web development. Giving you everything you need to know to launch you into the journey.
+In this article, and the rest in the series, we will be teaching you how to get started on web development, giving you everything you need to know to launch you into the journey.
 
 Please note that this tutorial is not comprehensive, and does not in any way seek to replace proper learning and practice. This is just an overview.
 
@@ -72,7 +72,7 @@ Databases are used to store and organize large amounts of data for web applicati
 
 APIs (Application Programming Interfaces) are used to allow different systems to communicate with each other. They are often used to integrate different web services, such as social media platforms or payment gateways, into a web application.
 
-Here's a brief summary of the two roles.
+Here's a summary of the two roles.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683544133848/315ebac6-63ba-4769-aa44-5de08fb725bd.png align="center")
 
