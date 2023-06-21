@@ -1,5 +1,5 @@
 ---
-title: "Learn Frontend Web Development in 12 days!!!"
+title: "Advanced CSS tutorial"
 seoTitle: "Advanced CSS concepts media queries CSS blend modes"
 seoDescription: "Advanced CSS concepts media queries CSS blend modes css variables css flexbox css grid css positions responsive design. good css practice. example css"
 datePublished: Thu Jun 01 2023 11:30:42 GMT+0000 (Coordinated Universal Time)
