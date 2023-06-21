@@ -1,5 +1,5 @@
 ---
-title: "Learn Frontend Web development in 12days!!"
+title: "What is an IDE? Best IDE to use for web development 2023"
 seoTitle: "Learn how to choose an IDE for the best development experience"
 seoDescription: "This article teaches how to set up a development environment. Different IDEs and their uses.  What IDE to choose when you start coding. comments"
 datePublished: Sat May 06 2023 23:10:46 GMT+0000 (Coordinated Universal Time)
@@ -24,7 +24,7 @@ To write code, you can use any text editor. However, most integrated development
 
 IDEs for local use Developers install and operate local IDEs on their computers. In addition, depending on their coding tastes, project requirements, and development language, they must download and install numerous extra libraries. Local IDEs are customizable and, once installed, do not require an online connection. Some examples of local IDEs used for web development include
 
-* **VS Code**: Visual Studio Code, also commonly called VS Code, is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS.
+* **VS Code**: Visual Studio Code, also commonly called VS Code, is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux, and macOS.
     
 * **Atom**: Atom is a deprecated free and open-source text and source code editor for macOS, Linux, and Windows with support for plug-ins written in JavaScript, and embedded Git Control.
     
@@ -62,7 +62,7 @@ background-color: green;
 
 ```javascript
 var name = "Dumebi";
-// This is a comment syntax in javavscript. 
+// This is a comment syntax in javavscript.
 ```
 
 ## Setting up HTML
@@ -107,7 +107,7 @@ CSS files end with the extension `.css`. There are three ways of writing CSS, wh
 
 In the HTML boilerplate shared above, we can see this line of code embedded in it. This is how to link a CSS file in HTML, by first opening a `<link>` tag. The link tag has an attribute `rel` meaning relationship. We see that the relationship here is that the CSS file is a `stylesheet`. It has another attribute `href`. `Href` attributes are used to link files/websites in HTML. This wouldn't make much sense right now until we have covered the introduction to the HTML article. Don't bother yourself trying to understand it all. But this gives a very good foundation for when we start learning.
 
-***To enable this linking, the HTML file, and the CSS file have to be in the same hierarchay in the saving system.***
+***To enable this linking, the HTML file, and the CSS file have to be in the same hierarchy in the saving system.***
 
 ***Read more about file hierarchy*** [***here***](https://www.easytechjunkie.com/what-is-a-hierarchical-file-system.htm)
 
@@ -135,7 +135,7 @@ However, there is another way to place our script tag in an HTML document.
 
 We can see in the above example, that our `script` tag is embedded in our `head` element, this is because two keywords are associated with the `script` tag. The `await` and `async` keywords. We will talk more about this in our javascript class. It will more sense as the classes go by. Javascript files are written with the extension `.js`.
 
-***To enable this linking, the HTML file, and the javascript file have to be in the same hierarchay in the saving system.***
+***To enable this linking, the HTML file, and the javascript file have to be in the same hierarchy in the saving system.***
 
 ***Read more about file hierarchy*** [***here***](https://www.easytechjunkie.com/what-is-a-hierarchical-file-system.htm)
 
