@@ -1,5 +1,5 @@
 ---
-title: "Learn Frontend Web development in 12 days!!"
+title: "Advanced HTML: All you need to know about HTML"
 seoTitle: "Learn core HTML principles// learn frontend development//"
 seoDescription: "Learn core HTML principles// HTML accessibility// HTML attributes// Frontend web development// Web development// important HTML elements// HTML tags//"
 datePublished: Thu May 18 2023 06:55:31 GMT+0000 (Coordinated Universal Time)
