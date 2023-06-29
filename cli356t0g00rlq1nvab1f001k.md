@@ -26,6 +26,8 @@ CSS, when added to HTML, is what gives all the color and style to a website. If 
 
 Let us get right into it!!! 🥳🥳🥳
 
+***NB: Remember, in our*** [***article***](https://dumebi.hashnode.dev/learn-frontend-web-development-in-12days-setting-up-development-environment)***, we discussed how to add a CSS file to our HTML document using the*** `<link>` ***element. For those using a local IDE, for you to follow along with this lesson, you have to add the link to your Javascript file to your HTML document using the*** `<link>` ***element contained in our*** `<head>` ***element.***
+
 ## Types of CSS
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684971575507/b6de8e1b-12cf-42ba-9757-538d7a51cfaa.png align="center")
