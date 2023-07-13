@@ -1,6 +1,6 @@
 ---
 title: "React for beginners: an overview"
-seoTitle: "React for beginners. An overview of React for beginners"
+seoTitle: "React for beginners. An overview of React for beginners. React Hooks."
 seoDescription: "This article talks about the javascript frameworks. We learn about, React JSX, functional components, React Hooks, and how to build a counter app with React"
 datePublished: Thu Jul 13 2023 15:06:43 GMT+0000 (Coordinated Universal Time)
 cuid: clk1a9ly2000t09mq6ou1gv2f
@@ -81,6 +81,8 @@ Vite is a local development server written by Evan You and used by default by Vu
 Just like with CRA, we use Vite on the terminal.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689252124970/c17a973f-2c40-4fe8-83b1-091e01a02588.png align="center")
+
+If you want to read more on the difference between CRA and Vite, check out this [article](https://ericobeng.hashnode.dev/creating-react-application-using-vitejs-rather-than-create-react-app-cra?source=personalized-newsletter&source-id=2023-07-13).
 
 For this tutorial, we will be using [code sandbox](http://codesandbox.io) as our cloud IDE.
 
