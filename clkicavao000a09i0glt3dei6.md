@@ -1,10 +1,10 @@
 ---
-title: "Content is king, community is Queen."
+title: "The power of Content and Community in the developer marketing ecosystem"
 seoTitle: "The journey of being a better Developer Relations Engineer #DevRel"
-seoDescription: "This article discusses the relationship between content, community and data in any successful developer marketing and Developer Relations strategy."
+seoDescription: "Discuss content, community and data in successful developer marketing and Developer Relations strategies. Developer Advocate. Developer evangelism."
 datePublished: Tue Jul 25 2023 13:35:46 GMT+0000 (Coordinated Universal Time)
 cuid: clkicavao000a09i0glt3dei6
-slug: content-is-king-community-is-queen
+slug: the-power-of-content-and-community-in-the-developer-marketing-ecosystem
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690294123565/574ac637-94e2-43f3-ae47-27e8b66dce0f.jpeg
 tags: community, developer-relations, marketing, developer-advocate, devrel
 
@@ -13,6 +13,8 @@ tags: community, developer-relations, marketing, developer-advocate, devrel
 Hello and welcome! 🤩 🤩 🤩
 
 I am a Growth Marketer, who is looking to transition to Developer Relations, generally developer marketing. I have been studying and training myself for this role and that is what led me to this article.
+
+I have modified the statement, "Content is king, community is Queen" go be "Content is king, community is Queen... And data is the heir apparent." This is because you can't talk about content and community without data. Your content and community engagement would be water off the back of a rock if data isn't gotten from it and analysed.
 
 To get into this study, we will first break down each of the terms that we are working with, and then amalgamate them to give us one clear and concise meaning.
 
