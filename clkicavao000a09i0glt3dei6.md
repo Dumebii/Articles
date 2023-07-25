@@ -5,7 +5,7 @@ seoDescription: "This article discusses the relationship between content, commun
 datePublished: Tue Jul 25 2023 13:35:46 GMT+0000 (Coordinated Universal Time)
 cuid: clkicavao000a09i0glt3dei6
 slug: content-is-king-community-is-queen
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-_5IRj1F2rY/upload/ecbcb1a5aef5995f6c027148234a0aaa.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690294123565/574ac637-94e2-43f3-ae47-27e8b66dce0f.jpeg
 tags: community, developer-relations, marketing, developer-advocate, devrel
 
 ---
