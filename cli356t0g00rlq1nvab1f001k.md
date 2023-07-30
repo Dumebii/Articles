@@ -1,5 +1,5 @@
 ---
-title: "Beginner CSS: What the hell is CSS, and how do I use it!?"
+title: "Introduction to CSS for web development"
 seoTitle: "Fundamentals of CSS for web development"
 seoDescription: "Learn the beginner fundamentals of writing CSS code for web development. CSS box model, CSS selectors. Common CSS properties. CSS for beginners"
 datePublished: Thu May 25 2023 13:00:42 GMT+0000 (Coordinated Universal Time)
