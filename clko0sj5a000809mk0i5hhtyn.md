@@ -6,7 +6,7 @@ datePublished: Sat Jul 29 2023 13:00:12 GMT+0000 (Coordinated Universal Time)
 cuid: clko0sj5a000809mk0i5hhtyn
 slug: javascript-array-methods
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690582817521/9672d4f1-c843-4006-9309-6bb32f5f94c4.jpeg
-tags: tutorial, javascript, web-development, beginners, array-methods
+tags: tutorial, javascript, beginners, 2articles1week, array-methods
 
 ---
 
@@ -102,3 +102,5 @@ We can now determine the scalar operation we want to happen on the array or vect
 That's the end of this article for today! Thanks for dropping by. I hope you had as much fun reading this as I did writing it.
 
 Follow me [Linkedin](http://www.linkedin.com/in/dumebi-okolo)
+
+This article was meant to be part of the #`2Articles1Week` challenge, but I missed the part where we were to include it in the articles themselves.
