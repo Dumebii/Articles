@@ -7,7 +7,7 @@ datePublished: Tue Aug 01 2023 13:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: clksb412p000509mdhvkx0j16
 slug: what-are-developer-personas-and-why-do-they-matter
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690583994927/b2049705-3820-4ed5-9356-dc9df255926c.png
-tags: opensource, developer-relations, marketing, developer-advocate, opinion-pieces
+tags: developer-relations, marketing, developer-advocate, 2articles1week, opinion-pieces
 
 ---
 
@@ -60,3 +60,5 @@ While developer personas hold immense promise, there are potential challenges an
 In summary, the power of developer personas lies in their ability to illuminate the path to innovation in the tech industry. By understanding developers on a deeper level, businesses can create more empathetic and inclusive environments, fuel collaboration, and attract top talent. Developer personas not only empower developers to do their best work but also pave the way for groundbreaking advancements that shape the digital world of tomorrow. Embracing this invaluable tool is not just a choice; it is imperative for those seeking to lead the charge in the age of technology.
 
 [Cover image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.productmarketingalliance.com%2Fhow-to-turn-personas-and-content-intelligence-into-developer-marketing-gold%2F&psig=AOvVaw2Pk9mdoUPiEurVULMz5sSG&ust=1690669957894000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCPi4o8W6soADFQAAAAAdAAAAABAU)
+
+This article was meant to be part of the #`2Articles1Week` challenge, but I forgot to add it in. Just doing so now.
