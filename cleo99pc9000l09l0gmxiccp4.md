@@ -1,12 +1,12 @@
 ---
-title: "Getting started with Express (Javascript)"
+title: "Getting started with Express.JS (Javascript)"
 seoTitle: "Understanding Express in Javascript"
 seoDescription: "How to setup your backend development environment with Express.js.
 What is Express.JS? What are servers in computing? Express.Js for beginners."
 datePublished: Tue Feb 28 2023 12:59:16 GMT+0000 (Coordinated Universal Time)
 cuid: cleo99pc9000l09l0gmxiccp4
-slug: getting-started-with-express-javascript
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692117300435/eabfd987-a67d-4fdd-ada7-949b94a4ee5d.png
+slug: getting-started-with-expressjs-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692117759095/550a08d1-636f-4d04-89de-58e208acc2ba.jpeg
 tags: tutorial, javascript, web-development, beginners, expressjs-cilb5apda0066e053g7td7q24
 
 ---
@@ -78,7 +78,7 @@ Having finished the first two steps, it is time for us to get right into it!!
 
 * Our first line of code is a comment (**that is specific to Atom**), telling Atom that we are using ES6 so that it doesn't shoot a bunch of errors at us.
     
-* The next line is us *requiring Express.* That is ***fetching Express*** from the installation pacakage***.*** We store this in a variable.
+* The next line is us *requiring Express.* That is ***fetching Express*** from the installation pacakage\*\*\*.\*\*\* We store this in a variable.
     
 * The next line is fetching the Express module or method, and storing it in a variable `app`.
     
@@ -110,4 +110,4 @@ There you have it, your very first server!
 
 There are lots and lots of cool and interesting things that we will be doing with Express-js, but that is all for this article. Catch you next time!
 
-[What is Express-JS?](https://en.wikipedia.org/wiki/Express.js)
+[Cover Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fexpress-js%2F&psig=AOvVaw3FcDB-5giqRcKTFJpz59ok&ust=1692204065279000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCIjlkMmN34ADFQAAAAAdAAAAABAE)
