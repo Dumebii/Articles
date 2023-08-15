@@ -99,10 +99,10 @@ const express = require('express');
 const app = express();
 
 app.listen(3000, funtion(){
-console.log('THe server has started on port 3000')};
+console.log('The server has started on port 3000')};
 ```
 
-You will see this spin-up on your terminal window when you start the server. This shows you that your server has started running.
+You will see the console message spin-up on your terminal window when you start the server. This shows you that your server has started running.
 
 *To exit the server on the terminal, type* `ctrl + c` *or* `cmd + c`*.*
 
