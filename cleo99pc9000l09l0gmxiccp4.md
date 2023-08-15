@@ -1,14 +1,31 @@
-# Building your first server with ExpressJs
+---
+title: "Getting started with Express (Javascript)"
+seoTitle: "Understanding Express in Javascript"
+seoDescription: "How to setup your backend development environment with Express.js.
+What is Express.JS? What are servers in computing? Express.Js for beginners."
+datePublished: Tue Feb 28 2023 12:59:16 GMT+0000 (Coordinated Universal Time)
+cuid: cleo99pc9000l09l0gmxiccp4
+slug: getting-started-with-express-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692117300435/eabfd987-a67d-4fdd-ada7-949b94a4ee5d.png
+tags: tutorial, javascript, web-development, beginners, expressjs-cilb5apda0066e053g7td7q24
+
+---
 
 Hello and Welcome!! 🤩🤩🤩
 
 I am super excited to write this article, and I hope you have as much fun reading it as I did writing it.
 
-To begin with, let us understand what ExpressJs is.
+Let us understand what servers are and what Express is in Javascript.
 
-*Express.js, or simply Express, is a back-end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js.* [source](https://en.wikipedia.org/wiki/Express.js)
+### *What is a Server?*
 
-Knowing now that Express is a NodeJs framework. We will be relying a lot on the use of NodeJs, especially for the installation of Express.
+Servers are the backbone of computer programs, providing top-of-the-line service to clients. These devices operate in the heart of data centers, where their physical presence alone commands respect. It's no wonder they're referred to as servers; they truly serve as the ultimate source of support for the digital age.
+
+### *What is Express.JS?*
+
+*Express.js, also known as simply Express, is a robust server-side web application framework that is mainly utilized for building RESTful APIs with Node.js. It is free and open-source software that is distributed under the MIT License, making it accessible to developers worldwide. The framework is widely popular among developers due to its ease of use and flexibility, making it ideal for building web applications and APIs. In fact, it has been considered the standard server framework for Node.js, with its versatility and efficiency making it a top choice in the development community.*
+
+Knowing now that Express is a NodeJs framework, we will be relying a lot on the use of NodeJs, especially for the installation of Express.
 
 ### *Installing Hyper Terminal*
 
@@ -44,7 +61,7 @@ Having finished the first two steps, it is time for us to get right into it!!
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677525484182/49ca6be6-648b-4f6e-8c95-7f9660e1eba3.jpeg align="center")
     
-6. After this is done, we can go ahead to create our first server!!! 💃🏾💃🏾💃🏾
+    After this is done, we can go ahead to create our first server!!! 💃🏾💃🏾💃🏾
     
     In our code area, we type in the following...Don't worry, I'd explain.
     
@@ -59,13 +76,13 @@ Having finished the first two steps, it is time for us to get right into it!!
     ```
     
 
-* Our first line of code is a comment (that is specific to Atom), telling Atom that we are using ES6 so that it doesn't shoot a bunch of errors at us.
+* Our first line of code is a comment (**that is specific to Atom**), telling Atom that we are using ES6 so that it doesn't shoot a bunch of errors at us.
     
-* The next line is us *requiring Express.* That is*, fetching Express.* We store this in a `const.`
+* The next line is us *requiring Express.* That is ***fetching Express*** from the installation pacakage***.*** We store this in a variable.
     
-* The next line is fetching the Express module or method, and storing it in a `const` named 'app'.
+* The next line is fetching the Express module or method, and storing it in a variable `app`.
     
-* The last line is us calling a property of the `express` method, 'listen', to listen on port 3000. This simply means that we are creating a (local) server on port 3000.
+* The last line is us calling a property of the `express` method, `listen`, to listen on the port 3000. This simply means that we are creating a (local) server on port 3000.
     
 
 ### *Starting up your server*
@@ -91,4 +108,6 @@ You will see this spin-up on your terminal window when you start the server. Thi
 
 There you have it, your very first server!
 
-There are lots and lots of cool and interesting things that we will be doing with Express going forward, but that is all for this article. Catch you next time!
+There are lots and lots of cool and interesting things that we will be doing with Express-js, but that is all for this article. Catch you next time!
+
+[What is Express-JS?](https://en.wikipedia.org/wiki/Express.js)
