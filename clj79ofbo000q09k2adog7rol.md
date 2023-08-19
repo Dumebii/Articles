@@ -46,7 +46,7 @@ var anArray = new Array(1, 'hello', null, false];
 
 The example above has three examples using the `Array constructor function`. In the first line, what we have done is initialize an empty array. That is, we have opened up a 'box' or 'container' in which to store our data. This creates flexibility in that it allows our array to take any number of data inputs. In the second line, we have a controlled array. A controlled array in that we have specified a total number of values that the array is allowed to store or carry. In this case, we have made it so that `controlledArray` can only have six values. In the last line, we have initialized an array, as we did in the first code example above.
 
-A way to initialize an empty array is
+A way to initialize an empty array or the syntax for an array in javascript is
 
 `var emptyArray = []`
 
@@ -66,7 +66,7 @@ To pick off a value in an array by its index, we use the following syntax:
 var array = [1, 2, 3, 4, 5, 6];
 console.log(array[1], array[4], array[0]);
 
-//console output: 2, 5, 1 
+//console output: 2, 5, 1
 ```
 
 ### Objects in Javascript
@@ -210,7 +210,7 @@ console.log(salutations);
 console output: 
 salutations.pop(): ['Hello', 'Hi', 'Hey']
 salutations.push('ekaroo'): ['Hello', 'Hi', 'Hey', 'Ekaroo']
-*/ 
+*/
 ```
 
 For more on array methods, and the beautiful things we can do with them, check out W3School's [documentation](https://www.w3schools.com/js/js_array_methods.asp) on array methods. Also, check out this [amazing article](https://medium.com/@mandeepkaur1/a-list-of-javascript-array-methods-145d09dd19a0) on JavaScript array methods.
@@ -239,16 +239,30 @@ Get a better introduction to functions in Javascript from our [lesson](https://d
 
 Broadly speaking, JavaScript has four kinds of functions:
 
-* Regular function: can return anything; always runs to completion after invocation
+* **Regular function**: can return anything; always runs to completion after invocation
     
-* Generator function: returns a [`Generator`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator) object; can be paused and resumed with the [`yield`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield) operator
+    The general syntax for a JavaScript function is
     
-* Async function: returns a [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise); can be paused and resumed with the [`await`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await) operator
+    ```javascript
+    function thisIsAFunction() {
+    //Enter function code block here
+    }
+    ```
     
-* Async generator function: returns an [`AsyncGenerator`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGenerator) object; both the `await` and `yield` operators can be used
+* **Generator function**: returns a [`Generator`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator) object; can be paused and resumed with the [`yield`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield) operator
+    
+* **Async function**: returns a [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise); can be paused and resumed with the [`await`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await) operator
+    
+    ```javascript
+     async function thisIsAFunction() {
+    //Enter function code block here
+    }
+    ```
+    
+* **Async generator function**: returns an [`AsyncGenerator`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGenerator) object; both the `await` and `yield` operators can be used
     
 
-### Function return
+### Function return statement in JavaScript
 
 When JavaScript reaches a `return` statement, the function will stop executing.
 
