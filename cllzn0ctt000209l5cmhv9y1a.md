@@ -101,7 +101,7 @@ function App() {
 }
 ```
 
-### Add routes
+## Add routes
 
 To properly use React router, our React app ought to have at least two pages/components that we will route between.
 
