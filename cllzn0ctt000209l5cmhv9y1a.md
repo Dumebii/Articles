@@ -1,8 +1,8 @@
 ---
-title: "👌How to set up React Router v6 in your React app"
+title: "👌Setting up React Router v6 in your React app"
 datePublished: Thu Aug 31 2023 20:47:19 GMT+0000 (Coordinated Universal Time)
 cuid: cllzn0ctt000209l5cmhv9y1a
-slug: how-to-set-up-react-router-v6-in-your-react-app
+slug: setting-up-react-router-v6-in-your-react-app
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693514667332/d6d4c124-7eb8-4de4-964e-3348b0c947cc.png
 tags: javascript, web-development, router, reactjs, frontend-development
 
