@@ -1,5 +1,7 @@
 ---
 title: "An Introduction to Ruby"
+seoTitle: "A guide to learning Ruby programming language"
+seoDescription: "Learn Ruby development, data types in Ruby, string methods, operators in Ruby and build cool beginner projects in Ruby."
 datePublished: Wed Oct 18 2023 17:22:07 GMT+0000 (Coordinated Universal Time)
 cuid: clnw0tdgk000408l60708edkw
 slug: an-introduction-to-ruby
@@ -153,7 +155,6 @@ This is a compilation of things I have learned in Ruby that I don't know how to 
     >>ruby: "This is a line of code."
     ```
     
-
 * `gets.chomp` is used to receive input.
     
     ```ruby
@@ -164,7 +165,6 @@ This is a compilation of things I have learned in Ruby that I don't know how to 
     >>ruby: What is your message?_
     ```
     
-
 * The difference between `puts` and `print` is that `puts` adds a new line character at the end of the printed value, while `print` doesn't add anything.
     
 * Ruby is case-sensitive.
@@ -187,7 +187,6 @@ This is a compilation of things I have learned in Ruby that I don't know how to 
     >>ruby: 2
     ```
     
-
 * Ruby is an OOP (Object Oriented Programming) language, which means that everything in Ruby is an object.
     
 * `<<` is used to append data types to each other.
@@ -240,7 +239,7 @@ We have a sample string, `message = "John is a boy.`
 * To convert an integer/string to a float, we use [`integer.to`](http://integer.to)`_f` or [`string.to`](http://string.to)`_f`.
     
 
-##Project 1
+## Project 1
 
 ### Build a BMI calculator with Ruby
 
@@ -264,7 +263,7 @@ This is a sample of the code being run in the RubyMine IDE.
 
 ![Ruby input and output](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e1fdqhqxfbek94d4h8yj.png align="left")
 
-##Project 2
+## Project 2
 
 ### Build a Company Email Creator in Ruby
 
